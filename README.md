@@ -1,3 +1,5 @@
+LOAN APPROVAL EDA PROJECT
+
 This project provides an in-depth analysis of a loan approval dataset, exploring the relationships between various financial and demographic factors that influence loan amounts and approval decisions. The analysis includes a series of visualizations that depict the distribution of applicant incomes, loan amounts, and other key variables, as well as correlations among these variables.
 
 Key findings from this project include:
